@@ -1,0 +1,1 @@
+run streamlit app : ```streamlit run file.py```
